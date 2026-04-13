@@ -7,7 +7,7 @@ const NAV_HTML = `
 <nav class="nav">
   <div class="nav-inner">
     <a href="index.html" class="nav-logo">
-      <img src="https://lh3.googleusercontent.com/sitesv/APaQ0SRHbTuj7ImuRAT_Rs7MqmYwGNUMswD__SMXSL7dzHKsx62mqtAApnG3CJQAePwOa0k6BAZbbZGjvpDKwlGaSM_rgjGEKbqcuYWiyBDdgwBzG3Rngpk814jtz7-dNeZp9LdY2vhiWpR7iwJkpkXLJPhKhwziZqs4A9RAVQ0Qo6MupZfGJJ2D2yGMlF4=w400" alt="Premium Pioneers Sales Group" class="nav-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'">
+      <img src="https://lh3.googleusercontent.com/sitesv/APaQ0STxW2s6AS39QY4JoDFB7nhvWqaub-wCai4wAq16PtHbcycIM1tPlZAfyVs5qJNj_Ex99ufQWgrm-hEN_ZNvDDgCJKZa-MCItAf0jQo5j56J2e5hJP2M5udHjnLDEUeFF2aHCufReqdjNTmI_KWaI3fiSSnHGT0QGpFyP7brv89EuZmEaWNDUQZAZHDcOzXs81WeaVJiSr6H0F0C2bM8ax2j54Aqsie5__lF-iU=w400" alt="Premium Pioneers Sales Group" class="nav-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'">
       <span class="nav-logo-fallback" style="display:none">Premium <span style="color:var(--gold)">Pioneers</span></span>
     </a>
     <ul class="nav-links" id="navLinks">
@@ -29,7 +29,7 @@ const FOOTER_HTML = `
     <div class="footer-top">
       <div>
         <div class="footer-logo-wrap">
-          <img src="https://lh3.googleusercontent.com/sitesv/APaQ0SRHbTuj7ImuRAT_Rs7MqmYwGNUMswD__SMXSL7dzHKsx62mqtAApnG3CJQAePwOa0k6BAZbbZGjvpDKwlGaSM_rgjGEKbqcuYWiyBDdgwBzG3Rngpk814jtz7-dNeZp9LdY2vhiWpR7iwJkpkXLJPhKhwziZqs4A9RAVQ0Qo6MupZfGJJ2D2yGMlF4=w400" alt="Premium Pioneers Sales Group" class="footer-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
+          <img src="https://lh3.googleusercontent.com/sitesv/APaQ0STxW2s6AS39QY4JoDFB7nhvWqaub-wCai4wAq16PtHbcycIM1tPlZAfyVs5qJNj_Ex99ufQWgrm-hEN_ZNvDDgCJKZa-MCItAf0jQo5j56J2e5hJP2M5udHjnLDEUeFF2aHCufReqdjNTmI_KWaI3fiSSnHGT0QGpFyP7brv89EuZmEaWNDUQZAZHDcOzXs81WeaVJiSr6H0F0C2bM8ax2j54Aqsie5__lF-iU=w400" alt="Premium Pioneers Sales Group" class="footer-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
           <div class="footer-logo" style="display:none">Premium <span>Pioneers</span></div>
         </div>
         <p class="footer-desc">A sourcing representative company focused on product curation, channel development, and end-to-line retail partnerships.</p>
